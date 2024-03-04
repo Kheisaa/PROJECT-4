@@ -5,7 +5,9 @@ Mentee assignment from IBM Advance Ai @ Infinite Learning Course Completion Crea
 
 Name : Kheisa Gading M. Syahputri
 
-Tech Stech :
+Tech Stack :
 * Python
 * CSS
 * Javascript
+* HTML
+* Dockerfile
